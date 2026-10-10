@@ -1,0 +1,6 @@
+{
+  "name": "Zipcart Intelligence — Before the Match Starts",
+  "description": "Quick-commerce logistics command center and AI inventory optimization engine for 30 dark stores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
